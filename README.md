@@ -3,6 +3,7 @@ GANHAMOS!
 Arreda Aí! 
 
 Projeto realizado com o intuito de solucionar um problema vigente: "Como a tecnologia pode auxiliar pais e mães a focar nos estudos enquanto seus filhos (4 a 7 anos) brincam?"; A solução proposta pelo time foi a criação do ARREDA! (Arreda aí!), um software no qual os pais fazem o cadastro dos filhos e montam playlists, que podem ser compostas por jogos, vídeos e atividades, de modo que a criança tenha com o que se ocupar no momento em que os pais estiverem estudando.
+link do Notion: https://www.notion.so/Desafio-Tech-d35572e9bd014be3975f32b05a7373fe
 
 A stack de front-end utilizada foi:
 
